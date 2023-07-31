@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999383171014",
+    "project_id": "consigaki-123a1",
+    "storage_bucket": "consigaki-123a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999383171014:android:ea4be610873e40ede07cc7",
+        "android_client_info": {
+          "package_name": "com.capitalconsig.consigaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999383171014-8fpd84udtsd3q7qlpfjr4ih9fpv5nkp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSdqZtKtg-aCKvDi_gzgyCZKZSi9dHJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999383171014-8fpd84udtsd3q7qlpfjr4ih9fpv5nkp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
